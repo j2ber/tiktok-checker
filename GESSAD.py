@@ -22,7 +22,7 @@ class Checker:
         self.white = colorama.Fore.WHITE
         self.blue = colorama.Fore.CYAN
         self.sample = "abcdefghijklmnopqrstuvwxyz0123456789_"
-        self.num = 4
+        self.num = 3
         self.threads = 10 
         self.hits = 0
         self.fails = 0
